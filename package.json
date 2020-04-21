@@ -2,7 +2,7 @@
   "name": "pokemon-list-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andriiandrey.github.io/pokemon-list-app/",
+  "homepage": "https://andriiandrey.github.io/pokemon-list-app",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@material-ui/icons": "^4.9.1",

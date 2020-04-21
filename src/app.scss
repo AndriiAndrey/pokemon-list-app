@@ -4,9 +4,13 @@
 
   .buttons-pagination{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin-bottom: 20px;
+
+    @media screen and (max-width: 500px) {
+      flex-direction: column;
+    }
 
   }
 }
